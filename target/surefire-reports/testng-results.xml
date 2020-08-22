@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2020-07-27T15:49:08 BST" finished-at="2020-07-27T15:49:08 BST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2020-07-27T15:49:08 BST" finished-at="2020-07-27T15:49:08 BST">
+      <class name="selfimprovement.mavencourse.SeleniumTest">
+        <test-method status="PASS" signature="click()[pri:0, instance:selfimprovement.mavencourse.SeleniumTest@4566e5bd]" name="click" duration-ms="3" started-at="2020-07-27T15:49:08 BST" finished-at="2020-07-27T15:49:08 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method status="PASS" signature="geturl()[pri:0, instance:selfimprovement.mavencourse.SeleniumTest@4566e5bd]" name="geturl" duration-ms="1" started-at="2020-07-27T15:49:08 BST" finished-at="2020-07-27T15:49:08 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturl -->
+      </class> <!-- selfimprovement.mavencourse.SeleniumTest -->
+      <class name="selfimprovement.mavencourse.AppiumTest">
+        <test-method status="PASS" signature="maximise()[pri:0, instance:selfimprovement.mavencourse.AppiumTest@1ed4004b]" name="maximise" duration-ms="0" started-at="2020-07-27T15:49:08 BST" finished-at="2020-07-27T15:49:08 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximise -->
+        <test-method status="PASS" signature="tap()[pri:0, instance:selfimprovement.mavencourse.AppiumTest@1ed4004b]" name="tap" duration-ms="1" started-at="2020-07-27T15:49:08 BST" finished-at="2020-07-27T15:49:08 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tap -->
+      </class> <!-- selfimprovement.mavencourse.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

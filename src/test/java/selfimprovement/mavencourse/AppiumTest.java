@@ -1,0 +1,19 @@
+package selfimprovement.mavencourse;
+
+import org.testng.annotations.Test;
+
+public class AppiumTest {
+	
+	@Test
+	public void tap() {
+		
+		System.out.println("Tapping in Appium testcase");
+	}
+	
+	@Test
+	public void maximise() {
+		
+		System.out.println("Maximise url in Appium testcase");
+	}
+
+}
