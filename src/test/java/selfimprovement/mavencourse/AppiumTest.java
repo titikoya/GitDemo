@@ -16,6 +16,8 @@ public class AppiumTest {
 		System.out.println("Maximise url in Appium testcase");
 		
 		System.out.println("Maximise url2 in Appium testcase");
+		
+		System.out.println("Maximise url3 in Appium testcase");
 	}
 
 }
